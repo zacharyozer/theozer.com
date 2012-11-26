@@ -1,0 +1,129 @@
+.logo {
+font-family:"Courier New", Courier, monospace;
+font-size:24px;
+font-weight:700;
+margin-bottom:10px;
+}
+
+a {
+text-decoration:none;
+color:#000;
+}
+
+a:hover {
+text-decoration:underline;
+}
+
+#name {
+font-family:Helvetica, sans-serif;
+font-size:42px;
+letter-spacing:2px;
+text-align:left;
+float:left;
+margin:30px 0 5px 40px;
+}
+
+#main {
+width:740px;
+margin:auto;
+}
+
+#splash {
+border:thin solid #000;
+width:680px;
+}
+
+#navbar {
+height:30px;
+text-align:right;
+font-family:Helvetica, sans-serif;
+float:right;
+margin:42px 40px 15px 0;
+}
+
+#navbar li {
+list-style-type:none;
+display:inline;
+border:solid #000 1px;
+padding:10px 0;
+}
+
+#navbar li:hover {
+background:#CCC;
+}
+
+#navbar li a {
+text-decoration:none;
+color:#000;
+padding:10px 20px;
+}
+
+#portfolio {
+font-family:Helvetica, sans-serif;
+margin:0 25px 25px;
+}
+
+#portfolio img {
+float:left;
+border:solid #606060 2px;
+background:#000;
+margin:0 0 20px 20px;
+}
+
+#portfolio ul li {
+font-size:22px;
+border-top:solid #000 3px;
+list-style-type:none;
+clear:both;
+margin:0;
+padding:15px 0;
+}
+
+#portfolio ul li ul {
+padding:15px 0 0;
+}
+
+#portfolio ul li ul li {
+line-height:24px;
+font-weight:400;
+font-size:16px;
+border-top:dotted #000 1px;
+list-style-type:none;
+clear:both;
+margin:0;
+padding:20px 0 15px;
+}
+
+#footer {
+font-family:Helvetica, sans-serif;
+font-size:12px;
+text-align:center;
+font-weight:700;
+padding-top:10px;
+clear:both;
+width:680px;
+}
+
+hr {
+clear:both;
+border:none;
+}
+
+.projectName {
+font-weight:700;
+padding-left:15px;
+float:left;
+}
+
+.projectDetails {
+font-size:14px;
+line-height:24px;
+float:left;
+width:450px;
+padding:0 0 15px 15px;
+}
+
+#navbar ul,#portfolio ul {
+margin:0;
+padding:0;
+}
