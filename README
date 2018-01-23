@@ -1,0 +1,20 @@
+# theozer.com
+Source code for theozer.com
+
+## Installation
+```
+gem install jekyll bundler
+brew install awscli
+awscli configure
+```
+
+## Building the site
+```
+jekyll build
+```
+
+## Pushing an update
+```
+cd _site
+awscli s3 sync . s3://www.thozer.com
+```
