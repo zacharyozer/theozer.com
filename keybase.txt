@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/zozer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.theozer.com
+  * I am zozer (https://keybase.io/zozer) on keybase.
+  * I have a public key with fingerprint DD18 CB3D B169 3340 0C3A  D8CE 0C9D 9E9A 8A39 C0B0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018c226e84a551044f720c70a531ce53dcfd52efbb3ea6662ac792536089c443690a",
+      "fingerprint": "dd18cb3db16933400c3ad8ce0c9d9e9a8a39c0b0",
+      "host": "keybase.io",
+      "key_id": "0c9d9e9a8a39c0b0",
+      "kid": "01018c226e84a551044f720c70a531ce53dcfd52efbb3ea6662ac792536089c443690a",
+      "uid": "beaaf55936fb56c4f2606499adb9e100",
+      "username": "zozer"
+    },
+    "merkle_root": {
+      "ctime": 1643305887,
+      "hash_meta": "53df0305780c287fb5ebacbcb31d39e64b910ff1423e57e58ea242d0e761b696",
+      "seqno": 21737189
+    },
+    "revoke": {
+      "sig_ids": [
+        "5de8613872c11ab60cf805e81fe01ec6515d7f8fa517fa13868378bb6409ad460f"
+      ]
+    },
+    "service": {
+      "hostname": "www.theozer.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1643305922,
+  "expire_in": 157680000,
+  "prev": "8fd3b42f7bac29b1b1f84e50eea7ef449466ee848f6094adfe1a8b7de0e7f3b6",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMLAAnicrZNdbBVFGIbPUfmx1ab1QqW9UDYhJuSkzOzMzs6eaiRtlISE2HAjBsjJ
+/Hxzztpzdo+729ZC2wtKelMTNWgbDYiIPzHxBknUKASoXGhQohiDtpoo+IOKgoqG
+oBFnKyYab92bzc683/u937MzR6+/utBSXDxx+uh1m0+tKB6bHRosiJ/mZ7c6MtYj
+TnmrMwALL6hrSLPKQKidsoMwwly5LgNOhedhRKnxXaR8JDyCFXhEK6M9F4yUBARj
+zBXKD1yPMMQDRSlhARJOyTFhVIWkmYRRZm21tq6SaIlZQAhFSBGhuQKkAh1AILgg
+gUIS2cJanOYVNpwUKXSHsV2zH5W/4v1X/z/nHlywkyCE8byAMCM9pqhxGWI0CISW
+AWCU9x1MIYlEA6x6S7wFEmes5DQgGahDJYnjLCersjDfx4wSgjzOfTudSGuVBmTC
+ltlMBtkNnyPlct92AimUtJywJgEwKgOMjMHUJeD54HEQLnU1Ap9hyQJmQ6TwQBQ7
+ZRf7xMc8sBESGIoHIO+ehlULLXXKGx1PA2eYcN9VGAvJkDIcecCxAYRBMQ972jfc
+CA/7Rlgh48TnUjKK7MiUIeNsHsu7JUOhWjDP/9KV6YeHh7uzGuQMulXcsKmaSZzF
+Kq7bzVqWNdNyziYbaS6oQVau+FRkGGl7TGzFECRpGEeWlVX+G1vguiUHHmyGCVTC
+XOH5jCP75H1gyFpyo4mkrvEtPTeQWGLDKXgIQPhgKA0oY2DPBTcMBVRoA1hw6Wuw
+JA2R/+DIbExRtZaWXSSywQScsdnDm64pFFsKixddlV+fQsu17X9fqqRraWFy5Ve3
+393YdeS1hBbPvNBZ7S0vc+admQ9GD2+/99GdK/mSibY7LxyY2f9OeL6vZ0Xp1In+
+y581t98zenZf1LNtxzcTb3VO3bpqyfIbLqqbj385/u3Tx8/PhmvmLjVO9j++c2Tu
+2epz5udfn7ntl4P7tk213X9obNFHRz5tX9p7prPvi7Bj/ejcE6XV379bY+NPvv/Q
+iz3jL9WXvb3pkd7olf07dt84tfp0X3t9+paueb32jVfvOvfYxk+Sy091bzgYnbzw
+/J7p9za8WYXWH87t7VpVWxdXWr/+7o9dxXWXPl4LD/f/uPe3LL0pdVqnyzO7Jwsd
+L1+sjK75feSOzomzHT3NPR++vn558URbeOzz+yb/BFOQhMI=
+=wuz5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zozer
+
+==================================================================
