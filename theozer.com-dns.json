@@ -5,11 +5,12 @@
             "ResourceRecordSet": {
                 "Name": "theozer.com.",
                 "Type": "A",
-                "AliasTarget": {
-                    "HostedZoneId": "Z3AQBSTGFYJSTF",
-                    "DNSName": "s3-website-us-east-1.amazonaws.com.",
-                    "EvaluateTargetHealth": false
-                }
+                "TTL": 300,
+                "ResourceRecords": [
+                    {
+                        "Value": "75.2.60.5"
+                    }
+                ]
             }
         },
         {
@@ -46,19 +47,6 @@
                 "ResourceRecords": [
                     {
                         "Value": "\"v=spf1 include:_spf.google.com ~all\""
-                    }
-                ]
-            }
-        },
-        {
-            "Action": "CREATE",
-            "ResourceRecordSet": {
-                "Name": "_80c6a56e3920113798a8e5993e11217e.theozer.com.",
-                "Type": "CNAME",
-                "TTL": 300,
-                "ResourceRecords": [
-                    {
-                        "Value": "_bba9bd859520258ba49968595c2bbda7.mvtxpqxpkb.acm-validations.aws."
                     }
                 ]
             }
@@ -136,7 +124,7 @@
                 "TTL": 1800,
                 "ResourceRecords": [
                     {
-                        "Value": "d137jw3uu5htky.cloudfront.net."
+                        "Value": "wonderful-mahavira-7d438b.netlify.app."
                     }
                 ]
             }

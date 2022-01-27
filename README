@@ -8,6 +8,11 @@ brew install awscli
 awscli configure
 ```
 
+## Setting up DNS
+```
+aws route53 change-resource-record-sets --hosted-zone-id=<Hosted Zone> --change-batch=file:/~/development/theozer.com/theozer.com-dns.json
+```
+
 ## Building the site
 ```
 jekyll build
